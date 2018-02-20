@@ -1,1 +1,1 @@
-# pytorch-fully-conected-binary-classifier
+# pytorch-fully-connected-binary-classifier
